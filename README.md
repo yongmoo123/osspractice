@@ -8,4 +8,9 @@ practice mark down
 |1    |2      |3
 ~~hello~~
 
-> blockqoute text
+> blockqoute tex
+
+![이미지](1)
+|left |center |right
+|:--- |:----- |:-----
+|1    |2       |3  
